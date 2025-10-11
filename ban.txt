@@ -1,2 +1,5 @@
 payload:
+
     - '+.bilibili.com'
+    - '+.weibo.com'
+    - '+.douyin.com'
