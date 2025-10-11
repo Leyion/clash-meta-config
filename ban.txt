@@ -3,3 +3,4 @@ payload:
     - '+.bilibili.com'
     - '+.weibo.com'
     - '+.douyin.com'
+    - '+.iui.su'
