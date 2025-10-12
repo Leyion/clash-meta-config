@@ -4,3 +4,4 @@ payload:
     - '+.weibo.com'
     - '+.douyin.com'
     - '+.iui.su'
+    - '+.tie.baidu.com'
