@@ -5,3 +5,5 @@ payload:
     - '+.douyin.com'
     - '+.iui.su'
     - '+.tie.baidu.com'
+    - '+.ixigua.com'
+
